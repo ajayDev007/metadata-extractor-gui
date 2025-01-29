@@ -11,9 +11,10 @@ A simple Python-based GUI tool for extracting metadata from **Images, PDFs, and 
 pip install pillow pypdf2 python-docx exifread
 ```
 
-🖥️ Usage
-
+## 🖥️ Usage
+```
 python3 metadata_extractor_gui.py
+```
 
 1. Click "Browse File"
 2. Select an image, PDF, or DOCX
@@ -21,5 +22,6 @@ python3 metadata_extractor_gui.py
 
 ⚠ Legal Disclaimer: Use this tool only for ethical and legal purposes.
 
-📷 Screenshot
-(Add a screenshot of the GUI here
+## 📷 Screenshot
+![metadata tool pic](https://github.com/user-attachments/assets/cbd430ce-2dd0-43fe-8d64-ca3be8dfb3dd)
+
