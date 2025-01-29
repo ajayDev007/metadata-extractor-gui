@@ -9,6 +9,7 @@ A simple Python-based GUI tool for extracting metadata from **Images, PDFs, and 
 ## 📌 Installation
 ```bash
 pip install pillow pypdf2 python-docx exifread
+```
 
 🖥️ Usage
 
